@@ -1,0 +1,36 @@
+J:\Mis documentos\Visual Studio 2010\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+J:\Mis documentos\Visual Studio 2010\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+J:\Mis documentos\Visual Studio 2010\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+J:\Mis documentos\Visual Studio 2010\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+J:\Mis documentos\Visual Studio 2010\Projects\Calculadora\Calculadora\obj\Debug\ResolveAssemblyReference.cache
+J:\Mis documentos\Visual Studio 2010\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+J:\Mis documentos\Visual Studio 2010\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+J:\Mis documentos\Visual Studio 2010\Projects\Calculadora\Calculadora\obj\Debug\GenerateResource.read.1.tlog
+J:\Mis documentos\Visual Studio 2010\Projects\Calculadora\Calculadora\obj\Debug\GenerateResource.write.1.tlog
+J:\Mis documentos\Visual Studio 2010\Projects\Calculadora\obj\Debug\Calculadora.exe
+J:\Mis documentos\Visual Studio 2010\Projects\Calculadora\obj\Debug\Calculadora.pdb
+J:\Mis documentos\Visual Studio 2010\Projects\Calculadora\bin\Debug\Calculadora.exe
+J:\Mis documentos\Visual Studio 2010\Projects\Calculadora\bin\Debug\Calculadora.pdb
+J:\Mis documentos\Visual Studio 2010\Projects\Calculadora\obj\Debug\ResolveAssemblyReference.cache
+J:\Mis documentos\Visual Studio 2010\Projects\Calculadora\obj\Debug\Calculadora.Form1.resources
+J:\Mis documentos\Visual Studio 2010\Projects\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+J:\Mis documentos\Visual Studio 2010\Projects\Calculadora\obj\Debug\GenerateResource.read.1.tlog
+J:\Mis documentos\Visual Studio 2010\Projects\Calculadora\obj\Debug\GenerateResource.write.1.tlog
+J:\Mis documentos\Visual Studio 2010\Projects\Calculadora\obj\Debug\Calculadora.Form2.resources
+D:\Documents\Visual Studio 2010\Projects\Calculadora\obj\Debug\Calculadora.exe
+D:\Documents\Visual Studio 2010\Projects\Calculadora\obj\Debug\Calculadora.pdb
+D:\Documents\Visual Studio 2010\Projects\Calculadora\bin\Debug\Calculadora.exe
+D:\Documents\Visual Studio 2010\Projects\Calculadora\bin\Debug\Calculadora.pdb
+D:\Documents\Visual Studio 2010\Projects\Calculadora\obj\Debug\Calculadora.Form1.resources
+D:\Documents\Visual Studio 2010\Projects\Calculadora\obj\Debug\Calculadora.Form2.resources
+D:\Documents\Visual Studio 2010\Projects\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\Visual Studio 2010\Projects\Calculadora\obj\Debug\Calculadora.exe
+D:\Visual Studio 2010\Projects\Calculadora\obj\Debug\Calculadora.pdb
+D:\Visual Studio 2010\Projects\Calculadora\bin\Debug\Calculadora.exe
+D:\Visual Studio 2010\Projects\Calculadora\bin\Debug\Calculadora.pdb
+D:\Visual Studio 2010\Projects\Calculadora\obj\Debug\Calculadora.Form1.resources
+D:\Visual Studio 2010\Projects\Calculadora\obj\Debug\Calculadora.Form2.resources
+D:\Visual Studio 2010\Projects\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\Visual Studio 2010\Projects\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2010\Projects\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
